@@ -1,0 +1,73 @@
+.wat {
+	font-size: 48px;
+	padding-top: 10;
+	padding-bottom: -150;
+}
+
+.info {
+	text-align: center;
+	margin-right: 200;
+	margin-left: 200;
+	background-color: #006666;
+	color: white;
+}
+
+.info p {
+	font-size: 28;
+}
+
+* {
+	font-family: serif;
+	
+}
+
+.double {
+	padding: 0;
+    border: none;
+    border-top: medium double black;
+    color: black;
+    text-align: center;
+    margin-left: -50px;
+}
+
+.frogs {
+	display: inline-block;
+}
+
+.own {
+	padding-left: 50;
+}
+
+.body {
+	margin-left: 200;
+	margin-right: 200;
+	background-color: white;
+	padding-left: 50;
+	color: #006666;
+}
+
+.entire {
+	background-color: black;
+}
+
+.circle h2 {
+	margin-top: 30px;
+	color: #006666;
+}
+
+.circle {
+	margin-bottom: 20;
+	position: absolute;
+	background-color: white;
+	height: 120px;
+	width: 120px;
+	left: 280px;
+	top: 60px;
+	border: 5px dashed black;
+	border-radius: 100px;
+	text-align: center;
+}
+
+li {
+	color: black;
+}
